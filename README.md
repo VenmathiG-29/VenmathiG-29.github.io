@@ -15,3 +15,6 @@ Interactive modal to read articles without leaving the page.
 Scroll-to-top button with smooth scrolling.
 
 Accessible structure with semantic HTML and ARIA attributes.
+
+Preview
+https://venmathig-29.github.io/
